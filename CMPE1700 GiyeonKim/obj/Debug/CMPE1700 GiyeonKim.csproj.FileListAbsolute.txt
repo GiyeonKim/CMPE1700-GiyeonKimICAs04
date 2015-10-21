@@ -1,0 +1,5 @@
+C:\Users\Jenny Kim\Desktop\CMPE1700 GiyeonKim\CMPE1700 GiyeonKim\bin\Debug\rot.exe.config
+C:\Users\Jenny Kim\Desktop\CMPE1700 GiyeonKim\CMPE1700 GiyeonKim\bin\Debug\rot.exe
+C:\Users\Jenny Kim\Desktop\CMPE1700 GiyeonKim\CMPE1700 GiyeonKim\bin\Debug\rot.pdb
+C:\Users\Jenny Kim\Desktop\CMPE1700 GiyeonKim\CMPE1700 GiyeonKim\obj\Debug\rot.exe
+C:\Users\Jenny Kim\Desktop\CMPE1700 GiyeonKim\CMPE1700 GiyeonKim\obj\Debug\rot.pdb
